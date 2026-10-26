@@ -1,2 +1,5 @@
 ﻿Milk, Bread, Eggs
 Apples, Rice
+Milk, Bread, Eggs, Apples, Rice, Sugar
+Sugar
+Sugar
